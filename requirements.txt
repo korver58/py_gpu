@@ -1,0 +1,11 @@
+cupy-cuda116
+opencv-python
+pygame
+tqdm
+matplotlib
+autopep8
+flake8
+open3d
+scipy
+pandas
+pyyaml
